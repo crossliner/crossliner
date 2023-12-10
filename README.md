@@ -1,4 +1,5 @@
-An programmar who is coding for 4 years
+Hobbyist programmer with 5 years of experience
 
-# fields i am working on
-> backend enginnering, formal language theory (compilers) and network protocols
+# fields i am experienced on (based on my projects)
+> backend enginnering, language theory, compilers and distributed systems (network protocols and etc)
+
